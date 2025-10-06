@@ -19,110 +19,100 @@
 - 課題の編集
 - 課題の削除
 
-
 ## 名前の由来（UniDue）
 「大学（University）の課題の期日（Due）を統合管理(Unified)」というコンセプトから、「UniDue」と命名。
 
-<br><br><br>
+---
 
 ## スクリーンショット
 
 ### 1. トップページ
+
 <p align="center">
   <img src="public/screenshots/UniDueTop1.svg" width="900" alt="トップページ1" />
 </p>
 
-<br>
 <p align="center">
   <img src="public/screenshots/UniDueTop2.svg" width="900" alt="トップページ2" />
 </p>
 
-<br>
 <p align="center">
   <img src="public/screenshots/UniDueTop3.svg" width="900" alt="トップページ3" />
 </p>
 
-<br>
 <p align="center">
   <img src="public/screenshots/UniDueTop4.svg" width="900" alt="トップページ4" />
 </p>
----
 
-<br>
+<hr />
+
 <p align="center">
   <img src="public/screenshots/UniDueTop5.svg" width="900" alt="トップページ5" />
 </p>
---------------
-<br>
+
+<hr />
+
 <p align="center">
   <img src="public/screenshots/UniDueTopSp1.svg" width="900" alt="トップページ1" />
 </p>
 
-<br>
 <p align="center">
   <img src="public/screenshots/UniDueTopSp2.svg" width="900" alt="トップページ2" />
 </p>
 
-<br>
 <p align="center">
   <img src="public/screenshots/UniDueTopSp3.svg" width="900" alt="トップページ3" />
 </p>
 
-<br>
 <p align="center">
   <img src="public/screenshots/UniDueTopSp4.svg" width="900" alt="トップページ4" />
 </p>
 
-<br>
 <p align="center">
   <img src="public/screenshots/UniDueTopSp5.svg" width="900" alt="トップページ5" />
 </p>
 
-<br>
 <p align="center">
   <img src="public/screenshots/UniDueTopSp6.svg" width="900" alt="トップページ6" />
 </p>
 
-<br>
 <p align="center">
   <img src="public/screenshots/UniDueTopSp7.svg" width="900" alt="トップページ7" />
 </p>
 
-<br>
 <p align="center">
   <img src="public/screenshots/UniDueTopSp8.svg" width="900" alt="トップページ8" />
 </p>
 
-<br>
 <p align="center">
   <img src="public/screenshots/UniDueTopSp9.svg" width="900" alt="トップページ9" />
 </p>
 
-<br>
-<br>
 ### 2.新規課題作成ページ
+
 <p align="center">
   <img src="public/screenshots/UniDueNew1.svg" width="900" alt="新規課題作成ページ" />
 </p>
---------------
-<br>
+
+<hr />
+
 <p align="center">
   <img src="public/screenshots/UniDueNewSp1.svg" width="900" alt="新規課題作成ページ" />
 </p>
 
-<br>
-<br>
 ### 3.課題情報編集ページ
+
 <p align="center">
   <img src="public/screenshots/UniDueEdit1.svg" width="900" alt="課題情報編集ページ" />
 </p>
---------------
-<br>
+
+<hr />
+
 <p align="center">
   <img src="public/screenshots/UniDueEditSp1.svg" width="900" alt="課題情報編集ページ" />
 </p>
 
-
+---
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -139,6 +129,3 @@ pnpm dev
 # or
 bun dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
