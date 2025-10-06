@@ -23,7 +23,23 @@
 ## 名前の由来（UniDue）
 「大学（University）の課題の期日（Due）を統合管理(Unified)」というコンセプトから、「UniDue」と命名。
 
+<br><br><br>
 
+## スクリーンショット
+
+### 1. 会員登録ページ
+<p align="center">
+  <img src="public/screenshots/UniDueTop1.svg" width="900" alt="会員登録ページ" />
+</p>
+
+---
+
+### 2. 登録内容確認ページ（画像設定なし）
+<p align="center">
+  <img src="docs/screenshots/checkPage2.svg" width="900" alt="登録内容確認ページ（画像設定なし）" />
+</p>
+
+---
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
