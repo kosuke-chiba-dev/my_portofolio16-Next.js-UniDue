@@ -27,18 +27,46 @@
 
 ## スクリーンショット
 
-### 1. 会員登録ページ
+### 1. トップページ
 <p align="center">
-  <img src="public/screenshots/UniDueTop1.svg" width="900" alt="会員登録ページ" />
+  <img src="public/screenshots/UniDueTop1.svg" width="900" alt="トップページ1" />
 </p>
 
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTop2.svg" width="900" alt="トップページ2" />
+</p>
+
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTop3.svg" width="900" alt="トップページ3" />
+</p>
+
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTop4.svg" width="900" alt="トップページ4" />
+</p>
 ---
 
-### 2. 登録内容確認ページ（画像設定なし）
+<br>
 <p align="center">
-  <img src="docs/screenshots/checkPage2.svg" width="900" alt="登録内容確認ページ（画像設定なし）" />
+  <img src="public/screenshots/UniDueTop5.svg" width="900" alt="トップページ5" />
+</p>
+---
+
+<br>
+<br>
+### 2.新規課題作成ページ
+<p align="center">
+  <img src="public/screenshots/UniDueNew1.svg" width="900" alt="新規課題作成ページ" />
 </p>
 
+<br>
+<br>
+### 3.課題情報編集ページ
+<p align="center">
+  <img src="public/screenshots/UniDueEdit1.svg" width="900" alt="課題情報編集ページ" />
+</p>
 ---
 
 
