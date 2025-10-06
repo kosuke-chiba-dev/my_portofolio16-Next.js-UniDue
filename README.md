@@ -44,8 +44,6 @@
   <img src="public/screenshots/UniDueTop4.svg" width="900" alt="トップページ4" />
 </p>
 
-<hr />
-
 <p align="center">
   <img src="public/screenshots/UniDueTop5.svg" width="900" alt="トップページ5" />
 </p>
