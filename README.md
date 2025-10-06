@@ -52,13 +52,62 @@
 <p align="center">
   <img src="public/screenshots/UniDueTop5.svg" width="900" alt="トップページ5" />
 </p>
----
+--------------
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTopSp1.svg" width="900" alt="トップページ1" />
+</p>
+
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTopSp2.svg" width="900" alt="トップページ2" />
+</p>
+
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTopSp3.svg" width="900" alt="トップページ3" />
+</p>
+
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTopSp4.svg" width="900" alt="トップページ4" />
+</p>
+
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTopSp5.svg" width="900" alt="トップページ5" />
+</p>
+
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTopSp6.svg" width="900" alt="トップページ6" />
+</p>
+
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTopSp7.svg" width="900" alt="トップページ7" />
+</p>
+
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTopSp8.svg" width="900" alt="トップページ8" />
+</p>
+
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueTopSp9.svg" width="900" alt="トップページ9" />
+</p>
 
 <br>
 <br>
 ### 2.新規課題作成ページ
 <p align="center">
   <img src="public/screenshots/UniDueNew1.svg" width="900" alt="新規課題作成ページ" />
+</p>
+--------------
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueNewSp1.svg" width="900" alt="新規課題作成ページ" />
 </p>
 
 <br>
@@ -67,7 +116,12 @@
 <p align="center">
   <img src="public/screenshots/UniDueEdit1.svg" width="900" alt="課題情報編集ページ" />
 </p>
----
+--------------
+<br>
+<p align="center">
+  <img src="public/screenshots/UniDueEditSp1.svg" width="900" alt="課題情報編集ページ" />
+</p>
+
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
