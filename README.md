@@ -28,86 +28,86 @@ my_portofolio16-Node.js-UniDueをNext.jsを使うことで、より使いやす�
 
 ### 1. トップページ
 
-<p align="center">
-  <img src="public/screenshots/UniDueTop1.svg" width="900" alt="トップページ1" />
+<p align="left">
+  <img src="public/screenshots/UniDueTop1.svg" width="50%" alt="トップページ1" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTop2.svg" width="900" alt="トップページ2" />
+<p align="left">
+  <img src="public/screenshots/UniDueTop2.svg" width="50%" alt="トップページ2" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTop3.svg" width="900" alt="トップページ3" />
+<p align="left">
+  <img src="public/screenshots/UniDueTop3.svg" width="50%" alt="トップページ3" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTop4.svg" width="900" alt="トップページ4" />
+<p align="left">
+  <img src="public/screenshots/UniDueTop4.svg" width="50%" alt="トップページ4" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTop5.svg" width="900" alt="トップページ5" />
+<p align="left">
+  <img src="public/screenshots/UniDueTop5.svg" width="50%" alt="トップページ5" />
 </p>
 
 <hr />
 
-<p align="center">
-  <img src="public/screenshots/UniDueTopSp1.svg" width="900" alt="トップページ1" />
+<p align="left">
+  <img src="public/screenshots/UniDueTopSp1.svg" width="50%" alt="トップページ1" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTopSp2.svg" width="900" alt="トップページ2" />
+<p align="left">
+  <img src="public/screenshots/UniDueTopSp2.svg" width="50%" alt="トップページ2" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTopSp3.svg" width="900" alt="トップページ3" />
+<p align="left">
+  <img src="public/screenshots/UniDueTopSp3.svg" width="50%" alt="トップページ3" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTopSp4.svg" width="900" alt="トップページ4" />
+<p align="left">
+  <img src="public/screenshots/UniDueTopSp4.svg" width="50%" alt="トップページ4" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTopSp5.svg" width="900" alt="トップページ5" />
+<p align="left">
+  <img src="public/screenshots/UniDueTopSp5.svg" width="50%" alt="トップページ5" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTopSp6.svg" width="900" alt="トップページ6" />
+<p align="left">
+  <img src="public/screenshots/UniDueTopSp6.svg" width="50%" alt="トップページ6" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTopSp7.svg" width="900" alt="トップページ7" />
+<p align="left">
+  <img src="public/screenshots/UniDueTopSp7.svg" width="50%" alt="トップページ7" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTopSp8.svg" width="900" alt="トップページ8" />
+<p align="left">
+  <img src="public/screenshots/UniDueTopSp8.svg" width="50%" alt="トップページ8" />
 </p>
 
-<p align="center">
-  <img src="public/screenshots/UniDueTopSp9.svg" width="900" alt="トップページ9" />
+<p align="left">
+  <img src="public/screenshots/UniDueTopSp9.svg" width="50%" alt="トップページ9" />
 </p>
 
 ### 2.新規課題作成ページ
 
-<p align="center">
-  <img src="public/screenshots/UniDueNew1.svg" width="900" alt="新規課題作成ページ" />
+<p align="left">
+  <img src="public/screenshots/UniDueNew1.svg" width="50%" alt="新規課題作成ページ" />
 </p>
 
 <hr />
 
-<p align="center">
-  <img src="public/screenshots/UniDueNewSp1.svg" width="900" alt="新規課題作成ページ" />
+<p align="left">
+  <img src="public/screenshots/UniDueNewSp1.svg" width="50%" alt="新規課題作成ページ" />
 </p>
 
 ### 3.課題情報編集ページ
 
-<p align="center">
-  <img src="public/screenshots/UniDueEdit1.svg" width="900" alt="課題情報編集ページ" />
+<p align="left">
+  <img src="public/screenshots/UniDueEdit1.svg" width="50%" alt="課題情報編集ページ" />
 </p>
 
 <hr />
 
-<p align="center">
-  <img src="public/screenshots/UniDueEditSp1.svg" width="900" alt="課題情報編集ページ" />
+<p align="left">
+  <img src="public/screenshots/UniDueEditSp1.svg" width="50%" alt="課題情報編集ページ" />
 </p>
 
 ---
